@@ -148,7 +148,7 @@ livre
 voiture
 rue
 frère
-sœur
+soeur
 enfant
 d'accord
 appeler
